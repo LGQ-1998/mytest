@@ -9,7 +9,7 @@
 <!--  打包方式，父工程是pom  聚合  -->
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-<!--  父工程下的子工程集合  -->
+<!--  父工程下的子工程集合  集合-->
     <modules>
 <!--    每个module就是一个子工程 名称必须与子工程的artifactId一致    -->
         <module>ssm_model</module>
